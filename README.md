@@ -15,4 +15,3 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrianRego03&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="BrianRego03" /></p> 
 
-<p align="center">&nbsp;<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BrianRego03&theme=midnight-purple" alt="GitHub Streak" /></a></p>
