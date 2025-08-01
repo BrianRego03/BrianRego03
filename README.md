@@ -9,14 +9,14 @@
 <h3 align="center">Tech Stack:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,html,css,webpack,c,cpp,mongodb,postgres,mysql,jest,git,postman,aws,bash,visualstudio,vscode,ubuntu,windows&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,html,css,webpack,c,cpp,jest,git,postman,aws,bash,visualstudio,vscode,ubuntu,windows&perline=5&theme=dark" />
   </a>
 </p>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=java,js,react,cpp&perline=5&theme=dark" />
 </p>
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,postgis&perline=5&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=5&theme=dark" />
 </p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrianRego03&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="BrianRego03" /></p> 
