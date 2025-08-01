@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian.</h1>
-<p align="center">🌱 I’m currently learning NodeJS.</p>
+<p align="center">🌱 I’m a Software developer.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -11,6 +11,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,html,css,webpack,c,cpp,mongodb,postgres,mysql,jest,git,postman,aws,bash,visualstudio,vscode,ubuntu,windows&perline=5&theme=dark" />
   </a>
+</p>
+<p align="center">
+ 
+  <img src="https://skillicons.dev/icons?i=java,js,react,cpp&perline=5&theme=dark" />
+  
 </p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrianRego03&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="BrianRego03" /></p> 
