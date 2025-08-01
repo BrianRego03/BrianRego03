@@ -13,9 +13,10 @@
   </a>
 </p>
 <p align="center">
- 
-  <img src="https://skillicons.dev/icons?i=java,js,react,cpp&perline=5&theme=dark" />
-  
+   <img src="https://skillicons.dev/icons?i=java,js,react,cpp&perline=5&theme=dark" />
+</p>
+<p align="center">
+   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,postgis&perline=5&theme=dark" />
 </p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrianRego03&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="BrianRego03" /></p> 
