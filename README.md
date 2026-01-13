@@ -19,11 +19,15 @@
    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=5&theme=dark" />
 </p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrianRego03&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="BrianRego03" /></p> 
+<!-- <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrianRego03&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="BrianRego03" /></p>  -->
 
 
+<!-- [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BrianRego03&&layout=compact&theme=midnight-purple&show_icons=true)](https://github.com/Pranesh-2005/github-readme-stats) -->
 
-
-
+<p  align="center">
+  <!-- <a href="https://github.com/Pranesh-2005/convoychat"> -->
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=BrianRego03&&layout=compact&theme=midnight-purple&langs_count=8&card_width=320" />
+  <!-- </a> -->
+</p>
 
 
